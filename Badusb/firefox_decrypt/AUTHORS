@@ -1,0 +1,19 @@
+This utility was primarily developed by:
+
+    Renato Alves        (@unode)
+
+
+Many thanks to the following people who have contributed with bug reports and
+further improvements:
+
+    George L. Yermulnik (@yermulnik)
+    Christoph Schulz    (@criztovyl)
+    Anthropohedron      (@Anthropohedron)
+    Alister Amo         (@AlisterAmo)
+
+
+As third party developers often go uncredited, we'd also like to extend our
+thanks to:
+
+    Wilhelm Schuermann  (@wbsch)            - bash_tap
+    Paul Beckingham     (@taskwarrior)      - test scripts
